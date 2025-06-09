@@ -1,4 +1,3 @@
-<a href="https://sanskrit-learning.onrender.com/" target="_blank">Sanskrit Learning Application 🔗</a>
 <h1>Sanskrit Learning Application</h1>
 
 <h2>Overview</h2>
