@@ -20,8 +20,7 @@
 <ul>
   <li><strong>Operating System:</strong> Windows</li>
   <li><strong>IDE:</strong> Visual Studio Code (VS Code)</li>
-  <li><strong>Frontend Technologies:</strong> ReactJS, Tailwind CSS</li>
-  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Technologies:</strong> Typescript, Tailwind CSS</li>
   <li><strong>Database:</strong> NeonDB</li>
   <li><strong>Version Control:</strong> GitHub</li>
 </ul>
